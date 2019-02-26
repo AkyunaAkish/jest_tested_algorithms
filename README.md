@@ -6,6 +6,7 @@
 JavaScript/ES6
 NodeJS (v11.9.0 on my machine)
 Jest
+Babel
 ```
 
 #### Included Algorithms
